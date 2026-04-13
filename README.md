@@ -52,12 +52,6 @@ A web application/demo built with [Three.js](https://threejs.org/), showcasing a
 
 1. Simply open `index.html` in your browser if this is a plain HTML/JavaScript project.
 
-## Screenshots
-
-> _Add images or GIFs of the app here if available._
->
-> ![Screenshot](screenshots/demo.png)
-
 ## Folder Structure
 
 ```plaintext
