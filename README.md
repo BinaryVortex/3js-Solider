@@ -1,5 +1,7 @@
 # 3js-Solider
 
+![GitHub top language](https://img.shields.io/github/languages/top/BinaryVortex/3js-Solider)
+
 A web application/demo built with [Three.js](https://threejs.org/), showcasing a 3D soldier model with interactive features.
 
 ## Features
